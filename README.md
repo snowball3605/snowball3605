@@ -26,17 +26,6 @@
 
 <h2 align="center">📁 Profile Card 📁</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin28576&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kevin28576&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin28576&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin28576&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin28576&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin28576&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin28576&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kevin28576&theme=tokyonight"/>
 
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
