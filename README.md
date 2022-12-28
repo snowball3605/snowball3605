@@ -1,8 +1,8 @@
 <h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card <img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
 
 <div align="center">
-    <a href="https://discord.com/users/747071881169076264" >  
-          <img src="https://lanyard.cnrad.dev/api/747071881169076264?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  />  
+    <a href="https://discord.com/users/705674606043856956" >  
+          <img src="https://lanyard.cnrad.dev/api/705674606043856956?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  />  
     </a>  
 </div>
 
