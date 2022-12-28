@@ -9,7 +9,7 @@
 <h2 align="center">🔗 Social Link 🔗</h2>
 
 <p align="center">
-  <a href="snowball@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
+  <a href="mailto:snowball@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
   <a href="https://www.youtube.com/channel/UCTEoPh7gMz-gd8D44b1OmYQ" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
   <a href="https://discord.com/users/705674606043856956/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
 </p>
