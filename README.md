@@ -24,9 +24,6 @@
     <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity" />
   </a>
 
-<h2 align="center">📁 Profile Card 📁</h2>
-
-
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
   -->
