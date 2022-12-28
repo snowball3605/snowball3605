@@ -15,14 +15,14 @@
   <a href="https://open.spotify.com/user/31ef23eewtrdrp4o7p2z2fd7o5ru" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
 
-<h2 align="center">🔧 Development Tools 🔧</h2>
+<h2 align="center">Development Tools</h2>
   <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=discord,aws,gcp,stackoverflow,codepen,docker,gradle,eclipse,firebase,flutter,git,github,django,githubactions,gitlab,idea,ai,ps,jenkins,jquery,pytorch,mastodon,kubernetes,jest,linux,nginx,bsd,nodejs,deno,unity,unreal,maven,vscode,zig,redux,ros,plan9,mongodb,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,ai,idea,ps,pr,powershell,stackoverflow,unity" />
   </a>
 
-<h2 align="center">🔧 Skills 🔧</h2>
+<h2 align="center">Skills</h2>
   <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dart,html,css,go,java,js,ts,wordpress,py,php,nestjs,svg,react,md,nginx,nodejs,bots,docker,fortran,godot,unity,unreal,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity" />
   </a>
 
 <h2 align="center">📁 Profile Card 📁</h2>
