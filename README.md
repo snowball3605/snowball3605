@@ -1,4 +1,4 @@
-<h2 align="center">🔗 Social Link 🔗</h2>
+<h2 align="center">Social Link|社交鏈接</h2>
 
 <p align="center">
   <a href="mailto:snowball@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
@@ -6,18 +6,18 @@
   <a href="https://discord.com/users/705674606043856956/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
 </p>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Skills|技能</h2>
   <a href="https://www.cloudxact.com" align="center">
     <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity" />
   </a>
 
-<h2 align="center">Development Tools</h2>
+<h2 align="center">Development Tools|開發工具</h2>
   <a href="https://www.cloudxact.com" align="center">
     <img src="https://skillicons.dev/icons?i=discord,bots,ai,idea,ps,pr,powershell,stackoverflow,unity" />
   </a>
 
 
-  <h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card <img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
+  <h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card|我的discord卡<img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
 
 <div align="center">
     <a href="https://discord.com/users/705674606043856956" >  
