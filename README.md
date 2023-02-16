@@ -25,7 +25,12 @@
     </a>  
 </div>
 
-<h2 align="center"><img src="https://my.hbot.fun/card/705674606043856956" align="center"/>自我介紹<img src="https://my.hbot.fun/card/705674606043856956" align="center"/></h2>
+<h2 align="center">自我介紹</h2>
+<div align="center">
+    <a href="https://discord.com/users/705674606043856956" >  
+          <img src="https://my.hbot.fun/card/705674606043856956"  />  
+    </a>  
+</div>
 
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
