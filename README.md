@@ -27,7 +27,7 @@
 
 <h2 align="center">自我介紹</h2>
 <div align="center">
-    <a href="https://my.hbot.fun/card/70567460604385695" >  
+    <a href="https://my.hbot.fun/snowball" >  
           <img src="https://my.hbot.fun/card/705674606043856956"/>  
     </a>  
 </div>
