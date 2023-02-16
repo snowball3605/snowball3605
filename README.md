@@ -25,6 +25,9 @@
     </a>  
 </div>
 
+<h2 align="center">自我介紹</h2>
+  <img src="https://my.hbot.fun/card/705674606043856956" align="center"/>
+
   <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
   -->
