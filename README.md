@@ -16,23 +16,7 @@
     <img src="https://skillicons.dev/icons?i=discord,bots,ai,idea,ps,pr,powershell,stackoverflow,unity" />
   </a>
 
+<h2 align="center">Tryhackme</h2>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/snowball87.231.png" alt="TryHackMe">
 
-  <h2 align="center"><img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/> My Discord Card|我的discord卡<img src="https://cdn.cloudxact.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(9).png" align="center"/></h2>
-
-<div align="center">
-    <a href="https://discord.com/users/705674606043856956" >  
-          <img src="https://lanyard.cnrad.dev/api/705674606043856956?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  />  
-    </a>  
-</div>
-
-<h2 align="center">自我介紹</h2>
-<div align="center">
-    <a href="https://my.hbot.fun/snowball" >  
-          <img src="https://my.hbot.fun/card/705674606043856956"/>  
-    </a>  
-</div>
-
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin28576&repo=Python-Ticket-BOT&theme=tokyonight" />
-  -->
 </p>
