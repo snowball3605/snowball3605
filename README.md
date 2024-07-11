@@ -8,7 +8,7 @@
 
 <h2 align="center">Skills|技能</h2>
   <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity,kotlin" />
   </a>
 
 <h2 align="center">Development Tools|開發工具</h2>
