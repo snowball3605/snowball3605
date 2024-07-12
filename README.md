@@ -13,7 +13,7 @@
 
 <h2 align="center">Development Tools|開發工具</h2>
   <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=discord,bots,ai,idea,ps,pr,powershell,stackoverflow,unity" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,c,cs,cpp,clion,css,devto,discord,bots,discordjs,docker,eclipse,github,gmail,gradle,html,idea,ai,instagram,java,js,kotlin,kali,linux,lua,md,maven,mysql,nginx,ps,powershell,pr,py,unity,visualstudio,vscode,windows" />
   </a>
 
 <h2 align="center">Tryhackme</h2>
