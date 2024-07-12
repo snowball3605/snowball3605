@@ -1,6 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=snowball3605&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=snowball3605&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowball3605&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605" />
 <h2 align="center">Social Link|社交鏈接</h2>
 
 <p align="center">
