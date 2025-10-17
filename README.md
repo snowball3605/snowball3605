@@ -1,24 +1,16 @@
-<img src="https://github-readme-stats.vercel.app/api?username=snowball3605&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowball3605&layout=compact" />
-<h2 align="center">Social Link|社交鏈接</h2>
+## About Raistey
+Hi, I'm Raistey, currently studying Information Technology. I'd like to try website security or artificial intelligence in the future.
 
-<p align="center">
-  <a href="mailto:snowball@cloudxact.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
-  <a href="https://www.youtube.com/channel/UCTEoPh7gMz-gd8D44b1OmYQ" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
-  <a href="https://discord.com/users/705674606043856956/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
-</p>
+你好，我是Raistey，目前就讀資訊科技。之後應該會想嘗試網站安全或人工智能。
 
-<h2 align="center">Skills|技能</h2>
-  <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=html,java,js,nodejs,php,py,unity,kotlin" />
-  </a>
+## Learned / Learning tools or code
+<img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,c,cs,cpp,clion,css,devto,discord,bots,discordjs,docker,eclipse,github,gmail,gradle,html,idea,ai,instagram,java,js,kotlin,kali,linux,lua,md,maven,mysql,nginx,ps,powershell,pr,py,unity,visualstudio,vscode,windows" />
 
-<h2 align="center">Development Tools|開發工具</h2>
-  <a href="https://www.cloudxact.com" align="center">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,c,cs,cpp,clion,css,devto,discord,bots,discordjs,docker,eclipse,github,gmail,gradle,html,idea,ai,instagram,java,js,kotlin,kali,linux,lua,md,maven,mysql,nginx,ps,powershell,pr,py,unity,visualstudio,vscode,windows" />
-  </a>
+## Github stats
+<img src="https://github-readme-stats.vercel.app/api?username=snowball3605" />
 
-<h2 align="center">Tryhackme</h2>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/snowball87.231.png" alt="TryHackMe">
+## Top Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605" />
 
-</p>
+## WakaTime
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowball3605" />
