@@ -13,4 +13,5 @@ Hi, I'm Raistey, currently studying Information Technology. I'd like to try webs
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605" />
 
 ## WakaTime
+<img src="https://wakatime.com/badge/user/1b520b8c-c452-4003-8566-8a9e286f52ad.svg" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowball3605" />
