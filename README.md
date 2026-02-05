@@ -7,7 +7,7 @@ Hi, I'm Raistey, currently studying Information Technology. I'd like to try webs
 <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,c,cs,cpp,clion,css,devto,discord,bots,discordjs,docker,eclipse,github,gmail,gradle,html,idea,ai,instagram,java,js,kotlin,kali,linux,lua,md,maven,mysql,nginx,ps,powershell,pr,py,unity,visualstudio,vscode,windows" />
 
 ## Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=snowball3605" />
+![Stats](./profile/stats.svg)
 
 ## Top Language
 ![Top Languages](./profile/top-langs.svg)
