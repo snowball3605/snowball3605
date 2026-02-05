@@ -10,7 +10,7 @@ Hi, I'm Raistey, currently studying Information Technology. I'd like to try webs
 <img src="https://github-readme-stats.vercel.app/api?username=snowball3605" />
 
 ## Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowball3605)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
 
 ## WakaTime
 <img src="https://wakatime.com/badge/user/1b520b8c-c452-4003-8566-8a9e286f52ad.svg" />
